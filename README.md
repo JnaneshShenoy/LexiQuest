@@ -1,2 +1,2 @@
-#LexiQuest
-##A game to showcase your lexical prowess !!
+# LexiQuest
+## A game to showcase your lexical prowess !!
